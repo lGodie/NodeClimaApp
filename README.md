@@ -10,5 +10,4 @@ Axios : trabaja con promesas
 
 request : trabaja con callbacks
 
-
-[Ejemplo] (https://www.google.com/)
+$image = (new Image)->resize(100, 100)->convert(‘greyscale’);
