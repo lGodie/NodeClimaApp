@@ -1,11 +1,9 @@
 ## Aplicacion del clima
 
-
 ejecutar ```npm install```
-node app -d madrid
-
 
 ejemplo
+node app -d madrid
 
 Axios : trabaja con promesas
 
